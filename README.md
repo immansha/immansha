@@ -3,7 +3,7 @@
 </p>
 
 
-🌟 Welcome to my GitHub profile! I'm a third-year Computer Science student specializing in Health Informatics at VIT Bhopal. I’m passionate about leveraging Artificial Intelligence to solve real-world problems, particularly in the healthcare domain.<p align="center">
+🌟 Welcome to my GitHub profile! I'm a final-year Computer Science student at VIT Bhopal. I’m passionate about leveraging Artificial Intelligence to solve real-world problems, particularly in the healthcare domain.<p align="center">
  
 # 💫 About Me:
  About Me<br>🌱 I’m a third-year Computer Science student passionate about using technology to make a meaningful impact.<br>🔬 Currently working on an NLP-based automated MCQ generator for teachers.<br>🤝 I’m looking to collaborate on AI, NLP, and Machine Learning projects.<br>💼 Actively seeking internships in Machine Learning and AI development.<br>📖 Currently learning advanced NLP techniques and AI model optimization.<br>💬 Ask me about Machine Learning, AI in healthcare, or NLP innovations.<br>🎉 Fun fact: I love blending creativity and coding—whether it’s building 3D web animations or automating tasks with AI!
